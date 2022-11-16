@@ -1,0 +1,11 @@
+npm init
+npm install express
+
+após criar o index.js, digitar: node index.js para verificar se o serv subiu
+ctrl + c para parar o servidor
+
+usuario banco: meirellos 
+senha: teste1234
+
+depois instalamos o mongoose
+npm install mongoose
